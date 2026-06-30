@@ -1,5 +1,7 @@
 # Cosmo
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 **AI-powered data analytics with GPU-accelerated graph visualization.**
 
 Drop any CSV or JSON. Two AI agents (Claude + Gemini) autonomously analyze your data, debate findings, create charts, and navigate a live graph — all in real time.
